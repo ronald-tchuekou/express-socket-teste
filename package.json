@@ -1,0 +1,9 @@
+{
+    "name": "socket-chat-example",
+    "author": "Ronald Tchuekou",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "^4.17.2",
+        "socket.io": "^4.4.1"
+    }
+}
